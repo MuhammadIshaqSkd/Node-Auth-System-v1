@@ -72,5 +72,3 @@ This project is open-source and free to use.
 
 
 ---
-
-Let me know your GitHub repo name/URL and I can update the `git clone` line for you too!
