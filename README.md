@@ -62,4 +62,16 @@ npm run dev
 
 ```
 
-# The server will start at: http://localhost:5000
+#### The server will start at: http://localhost:5000
+
+## 📄 License
+This project is open-source and free to use.
+
+
+## 💬 Questions?
+### If you need help setting this up or want to contribute, feel free to reach out or open an issue.
+
+
+---
+
+Let me know your GitHub repo name/URL and I can update the `git clone` line for you too!
