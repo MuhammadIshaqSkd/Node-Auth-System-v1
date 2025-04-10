@@ -38,7 +38,6 @@ A simple authentication API using **Node.js**, **Express**, and **MongoDB** with
 
 ```bash
 git clone https://github.com/MuhammadIshaqSkd/Node-Auth-System-v1.git
-cd auth-api
 ```
 
 ### 2. Install Dependencies
